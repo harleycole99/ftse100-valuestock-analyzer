@@ -1,0 +1,9 @@
+Ticker,Name,Category,Price (£),Expense Ratio (%),Dividend Yield (%),PE Ratio,PB Ratio,NAV Discount/Premium (%),Net Assets (£M),Buffett Alignment,Benchmark Signal,Description
+CTY.L,City of London Investment Trust,Dividend Hero Investment Trust,5.85,0.37,,5.13,1.13,,3017.7,HIGH (Core Value/Index Holding),BENCHMARK BUY,Famous UK Investment Trust with 58+ consecutive years of dividend increases.
+FCIT.L,F&C Investment Trust,Global Dividend Trust,3.43,0.54,,4.51,0.94,,6419.3,HIGH (Core Value/Index Holding),BENCHMARK BUY,World's oldest investment trust (founded 1868) with 53+ years dividend growth.
+IWVL.L,iShares Edge MSCI World Value Factor ETF,Global Value Factor,82.58,0.3,,15.39,,1.14,7642.9,HIGH (Core Value/Index Holding),BENCHMARK BUY,"Global equities screened for high value metrics (low P/E, P/B, FCF)."
+IUKD.L,iShares UK Dividend UCITS ETF,UK High Dividend / Value,10.21,0.4,4.59,15.01,,1.0,1345.8,HIGH (Core Value/Index Holding),BENCHMARK BUY,Selects the top 50 highest dividend-yielding stocks in the UK FTSE 350.
+VUKE.L,Vanguard FTSE 100 UCITS ETF,FTSE 100 Index Benchmark,0.47,0.09,2.99,16.79,,-98.99,6662.1,HIGH (Core Value/Index Holding),BENCHMARK BUY,Vanguard standard UK blue-chip index tracker.
+VMID.L,Vanguard FTSE 250 UCITS ETF,UK Mid-Cap Benchmark,0.37,0.1,3.1,15.93,,-98.98,2225.6,MODERATE (Growth/Value Blend),HOLD / SELECT BUY,Tracks FTSE 250 mid-caps with strong UK domestic exposure.
+SMT.L,Scottish Mortgage Investment Trust,Growth & Quality Trust,15.29,0.34,,5.56,1.19,,16188.2,TACTICAL,HOLD,Focuses on global quality businesses and high-conviction growth.
+ISF.L,iShares Core FTSE 100 UCITS ETF,FTSE 100 Index Benchmark,10.46,0.07,2.88,15.32,,1.22,,HIGH (Core Value/Index Holding),BENCHMARK BUY,Direct low-cost physical index tracking of top 100 UK blue chips.
